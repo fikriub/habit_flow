@@ -1,0 +1,114 @@
+# ✅ Personal Habit Tracker
+
+A clean and minimal habit tracking web application built with **pure HTML, CSS, and JavaScript**.
+
+Track your daily habits, build consistency, monitor weekly progress, and maintain streaks—all without any backend or external dependencies. Everything is stored locally in your browser using **localStorage**.
+
+---
+
+## ✨ Features
+
+- ➕ Add new habits
+- 🎯 Set target frequency for each habit
+- ✅ Mark habits as completed each day
+- 📅 Weekly progress grid
+- 🔥 Automatic streak counter
+- 💾 Data persistence with localStorage
+- 🎨 Clean, modern, and responsive UI
+- ⚡ No installation required
+
+---
+
+## 🚀 Demo
+
+Simply open the HTML file in your browser.
+
+No build tools.
+
+No frameworks.
+
+No dependencies.
+
+---
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- localStorage API
+
+---
+
+## 📂 Project Structure
+
+```
+.
+├── index.html
+└── README.md
+```
+
+Everything lives inside a single HTML file, making the project extremely portable and easy to customize.
+
+---
+
+## 💡 How It Works
+
+1. Add a habit.
+2. Choose its target frequency.
+3. Check it off whenever you complete it.
+4. Watch your weekly progress update automatically.
+5. Build longer streaks by staying consistent.
+
+Your data is automatically saved in **localStorage**, so refreshing or reopening the browser won't erase your habits.
+
+---
+
+## 🎨 Design
+
+The interface focuses on simplicity and usability.
+
+- Light color palette
+- Rounded cards
+- Soft shadows
+- Modern typography
+- Responsive layout
+- Minimal distractions
+
+---
+
+## 📦 Local Storage
+
+All data is stored locally in your browser.
+
+No accounts.
+
+No servers.
+
+No cloud database.
+
+No internet connection required after loading the page.
+
+---
+
+## 🎯 Future Improvements
+
+- Monthly calendar view
+- Habit categories
+- Dark mode
+- Statistics & charts
+- Data export/import
+- Reminder notifications
+- Multiple themes
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, consider giving it a ⭐ on GitHub!
